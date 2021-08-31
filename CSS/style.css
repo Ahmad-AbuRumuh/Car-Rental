@@ -1,0 +1,91 @@
+header {
+    height: 100px;
+    background-color: rgb(36, 36, 36);;
+}
+
+header img {
+    width: 140px;
+    height: 100%;
+    margin-left: 150px;
+}
+
+header h1 {
+    font-size: 50px;
+    margin-top: -90px;
+    color: red;
+    text-align: center;
+}
+
+#form {
+    border: 1px black solid;
+    border-radius: 10px;
+    background-color: rgb(172, 188, 201);
+    position: relative;
+    margin-top: 200px;
+    margin-left: 10px;
+    width: 300px;
+    text-align: center;
+    color: rgb(230, 46, 45);
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.input{
+    width: 70%;
+    margin-top: 20px;
+    padding: 5px 0;
+    border-radius: 5px;
+}
+
+main button {
+    background-color: rgb(230, 46, 45);
+    color: white;
+    width: 70%;
+    padding: 5px 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#container {
+    border: 1px black solid;
+    background-color: rgb(172, 188, 201);
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: 300px; */
+}
+
+#container table {
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container th {
+    border: solid black 1px;
+    padding: 10px 80px;
+    margin-left: 20px;
+}
+
+#container td {
+    border: solid black 1px;
+    padding: 10px 80px;
+    text-align: center;
+}
+
+#div {
+
+}
+
+footer {
+    height: 50px;
+    background-color: rgb(36, 36, 36);
+    color: rgb(230, 46, 45);
+    text-align: center;
+}
+
+footer h4 {
+    padding-top: 15px;
+    /* margin-top: 500px; */
+}
